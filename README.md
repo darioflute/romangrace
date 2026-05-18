@@ -4,3 +4,9 @@ Interactive Python GUI to "grace" Roman images by inpainting saturated/bad pixel
 ## bad/saturated pixels
 
 ## artefacts
+
+## starlight background
+
+
+## ROSALIA ?
+https://github.com/Borlaff/ROSALIA
